@@ -67,8 +67,6 @@ The presentation explains the complete analytical workflow from raw data to busi
 
 📄 Task4_Data_Storytelling.pptx
 
-🎥 Task4_Presentation_Video.mp4
-
 🖼️ Dashboard Screenshots
 
 📄 README.md
